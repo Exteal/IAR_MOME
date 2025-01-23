@@ -1,0 +1,451 @@
+coverage,emitter_mutation_count:,emitter_variation_count:,ga_max_fitness,ga_population_size,global_hypervolume,hypervolumes,max_hypervolume,max_scores,max_sum_scores,min_scores,moqd_score,normalised_global_hypervolume,normalised_hypervolumes,normalised_max_hypervolume,normalised_moqd_score,num_solutions,removed_count,total_num_solutions
+31.25,321,97,[ 3.2288132e+02 -1.0889883e-03],6400,7968.535,"[     -inf 6122.101       -inf      -inf 5688.8926      -inf 5374.016
+      -inf      -inf 5487.395       -inf 5578.1875      -inf      -inf
+ 5608.502       -inf      -inf 6134.4795      -inf      -inf      -inf
+      -inf 5595.728       -inf      -inf      -inf      -inf 6569.362
+      -inf      -inf      -inf      -inf 5425.8784      -inf      -inf
+ 7725.9453      -inf 5514.3223      -inf 5561.6577      -inf      -inf
+      -inf      -inf      -inf 7284.144  5721.7183      -inf 6018.5073
+ 6018.721       -inf      -inf 5156.8887      -inf      -inf      -inf
+      -inf      -inf      -inf 6246.15        -inf      -inf      -inf
+      -inf      -inf      -inf      -inf      -inf      -inf      -inf
+      -inf      -inf 5236.8945      -inf 6236.351  5748.7554      -inf
+      -inf      -inf      -inf 5743.581  7162.816       -inf      -inf
+      -inf      -inf      -inf 5120.999  5673.5303 5469.6694 5538.872
+      -inf 7831.2056      -inf      -inf      -inf      -inf 5911.348
+      -inf      -inf 5789.471       -inf 6426.4854 7867.7656      -inf
+      -inf      -inf      -inf      -inf      -inf      -inf      -inf
+ 6183.1133      -inf      -inf      -inf 5942.6035      -inf 6588.006
+      -inf 6393.5264      -inf 5446.9805 5976.9604      -inf      -inf
+ 5478.8657      -inf]",7867.7656,[ 3.2288132e+02 -1.0889883e-03],322.57727,[-108.11492     -0.9147334],240600.4,0.19602793,"[      -inf 0.1506052        -inf       -inf 0.13994816       -inf
+ 0.13220212       -inf       -inf 0.13499127       -inf 0.13722476
+       -inf       -inf 0.13797054       -inf       -inf 0.15090972
+       -inf       -inf       -inf       -inf 0.13765629       -inf
+       -inf       -inf       -inf 0.16160792       -inf       -inf
+       -inf       -inf 0.13347794       -inf       -inf 0.19006015
+       -inf 0.13565367       -inf 0.13681816       -inf       -inf
+       -inf       -inf       -inf 0.17919174 0.14075567       -inf
+ 0.14805676 0.14806205       -inf       -inf 0.12686074       -inf
+       -inf       -inf       -inf       -inf       -inf 0.15365684
+       -inf       -inf       -inf       -inf       -inf       -inf
+       -inf       -inf       -inf       -inf       -inf       -inf
+ 0.1288289        -inf 0.15341578 0.14142078       -inf       -inf
+       -inf       -inf 0.14129351 0.17620705       -inf       -inf
+       -inf       -inf       -inf 0.12597783 0.13957025 0.13455524
+ 0.13625762       -inf 0.19264959       -inf       -inf       -inf
+       -inf 0.14542061       -inf       -inf 0.14242242       -inf
+ 0.15809314 0.19354898       -inf       -inf       -inf       -inf
+       -inf       -inf       -inf       -inf 0.1521061        -inf
+       -inf       -inf 0.14618951       -inf 0.16206656       -inf
+ 0.15728234       -inf 0.13399707 0.14703472       -inf       -inf
+ 0.13478145       -inf]",0.19354898,240600.4,"[ 0  1  0  0  1  0  2  0  0  4  0  9  0  0 10  0  0  7  0  0  0  0  2  0
+  0  0  0  2  0  0  0  0  2  0  0  3  0  2  0  2  0  0  0  0  0  1  3  0
+ 44  4  0  0  1  0  0  0  0  0  0  2  0  0  0  0  0  0  0  0  0  0  0  0
+  1  0  1  5  0  0  0  0  5  1  0  0  0  0  0  1  4  6  9  0  1  0  0  0
+  0  3  0  0  7  0  2  4  0  0  0  0  0  0  0  0  2  0  0  0  8  0  2  0
+  1  0  4  6  0  0  2  0]",240,177
+31.25,321,97,[ 3.2288132e+02 -1.0889883e-03],6400,7968.5356,"[     -inf 6122.101       -inf      -inf 5688.8926      -inf 5374.0513
+      -inf      -inf 5487.395       -inf 5563.2295      -inf      -inf
+ 5608.502       -inf      -inf 6132.8076      -inf      -inf      -inf
+      -inf 5595.728       -inf      -inf      -inf      -inf 6569.362
+      -inf      -inf      -inf      -inf 5425.8784      -inf      -inf
+ 7725.9453      -inf 5514.3223      -inf 5561.6577      -inf      -inf
+      -inf      -inf      -inf 7284.144  5721.7183      -inf 6018.507
+ 6018.721       -inf      -inf 5156.8887      -inf      -inf      -inf
+      -inf      -inf      -inf 6246.15        -inf      -inf      -inf
+      -inf      -inf      -inf      -inf      -inf      -inf      -inf
+      -inf      -inf 5236.8945      -inf 6236.351  5748.7554      -inf
+      -inf      -inf      -inf 5743.581  7162.816       -inf      -inf
+      -inf      -inf      -inf 5120.999  5673.5303 5469.6694 5538.872
+      -inf 7831.2056      -inf      -inf      -inf      -inf 5911.348
+      -inf      -inf 5791.372       -inf 6426.4854 7867.7656      -inf
+      -inf      -inf      -inf      -inf      -inf      -inf      -inf
+ 6183.1133      -inf      -inf      -inf 5942.6035      -inf 6588.006
+      -inf 6393.5264      -inf 5446.9805 5976.9604      -inf      -inf
+ 5478.8657      -inf]",7867.7656,[ 3.2288132e+02 -1.0889883e-03],322.57727,[-108.11492     -0.9147334],240585.72,0.19602795,"[      -inf 0.1506052        -inf       -inf 0.13994816       -inf
+ 0.13220298       -inf       -inf 0.13499127       -inf 0.13685681
+       -inf       -inf 0.13797054       -inf       -inf 0.15086858
+       -inf       -inf       -inf       -inf 0.13765629       -inf
+       -inf       -inf       -inf 0.16160792       -inf       -inf
+       -inf       -inf 0.13347794       -inf       -inf 0.19006015
+       -inf 0.13565367       -inf 0.13681816       -inf       -inf
+       -inf       -inf       -inf 0.17919174 0.14075567       -inf
+ 0.14805676 0.14806205       -inf       -inf 0.12686074       -inf
+       -inf       -inf       -inf       -inf       -inf 0.15365684
+       -inf       -inf       -inf       -inf       -inf       -inf
+       -inf       -inf       -inf       -inf       -inf       -inf
+ 0.1288289        -inf 0.15341578 0.14142078       -inf       -inf
+       -inf       -inf 0.14129351 0.17620705       -inf       -inf
+       -inf       -inf       -inf 0.12597783 0.13957025 0.13455524
+ 0.13625762       -inf 0.19264959       -inf       -inf       -inf
+       -inf 0.14542061       -inf       -inf 0.14246918       -inf
+ 0.15809314 0.19354898       -inf       -inf       -inf       -inf
+       -inf       -inf       -inf       -inf 0.1521061        -inf
+       -inf       -inf 0.14618951       -inf 0.16206656       -inf
+ 0.15728234       -inf 0.13399707 0.14703472       -inf       -inf
+ 0.13478145       -inf]",0.19354898,240585.72,"[ 0  1  0  0  1  0  3  0  0  4  0  8  0  0 10  0  0  6  0  0  0  0  2  0
+  0  0  0  2  0  0  0  0  2  0  0  3  0  2  0  2  0  0  0  0  0  1  3  0
+ 45  4  0  0  1  0  0  0  0  0  0  2  0  0  0  0  0  0  0  0  0  0  0  0
+  1  0  1  5  0  0  0  0  5  1  0  0  0  0  0  1  4  6  9  0  1  0  0  0
+  0  3  0  0  7  0  2  4  0  0  0  0  0  0  0  0  2  0  0  0  8  0  2  0
+  1  0  4  6  0  0  2  0]",240,177
+32.03125,325,97,[ 3.2288132e+02 -1.0889883e-03],6400,7968.5356,"[     -inf 6122.101       -inf      -inf 5688.8926      -inf 5390.3877
+      -inf      -inf 5487.395       -inf 5563.2295      -inf      -inf
+ 5608.5317      -inf      -inf 6132.8076      -inf      -inf      -inf
+      -inf 5595.728       -inf      -inf      -inf      -inf 7068.1973
+      -inf      -inf      -inf      -inf 5425.8784      -inf      -inf
+ 7725.9453      -inf 5514.3223      -inf 5561.6577      -inf      -inf
+      -inf      -inf      -inf 7284.144  5721.7183      -inf 6018.507
+ 6018.721       -inf      -inf 5156.8887      -inf      -inf      -inf
+      -inf      -inf      -inf 6246.15        -inf      -inf      -inf
+      -inf      -inf      -inf      -inf      -inf      -inf      -inf
+      -inf      -inf 5236.8945      -inf 6236.351  5748.7554      -inf
+      -inf      -inf      -inf 5743.581  7162.816       -inf      -inf
+      -inf      -inf      -inf 5120.999  5673.5303 5469.6694 5538.872
+      -inf 7831.2056      -inf      -inf      -inf      -inf 5911.348
+      -inf      -inf 5791.372       -inf 6426.4854 7867.7656      -inf
+      -inf      -inf 4528.24        -inf      -inf      -inf      -inf
+ 6183.1133      -inf      -inf      -inf 5942.6035      -inf 6588.006
+      -inf 6393.5264      -inf 5446.9805 5976.9604      -inf      -inf
+ 5478.8657      -inf]",7867.7656,[ 3.2288132e+02 -1.0889883e-03],322.57727,[-116.68761     -0.9147334],245629.16,0.19602795,"[      -inf 0.1506052        -inf       -inf 0.13994816       -inf
+ 0.13260485       -inf       -inf 0.13499127       -inf 0.13685681
+       -inf       -inf 0.13797127       -inf       -inf 0.15086858
+       -inf       -inf       -inf       -inf 0.13765629       -inf
+       -inf       -inf       -inf 0.1738794        -inf       -inf
+       -inf       -inf 0.13347794       -inf       -inf 0.19006015
+       -inf 0.13565367       -inf 0.13681816       -inf       -inf
+       -inf       -inf       -inf 0.17919174 0.14075567       -inf
+ 0.14805676 0.14806205       -inf       -inf 0.12686074       -inf
+       -inf       -inf       -inf       -inf       -inf 0.15365684
+       -inf       -inf       -inf       -inf       -inf       -inf
+       -inf       -inf       -inf       -inf       -inf       -inf
+ 0.1288289        -inf 0.15341578 0.14142078       -inf       -inf
+       -inf       -inf 0.14129351 0.17620705       -inf       -inf
+       -inf       -inf       -inf 0.12597783 0.13957025 0.13455524
+ 0.13625762       -inf 0.19264959       -inf       -inf       -inf
+       -inf 0.14542061       -inf       -inf 0.14246918       -inf
+ 0.15809314 0.19354898       -inf       -inf       -inf 0.11139584
+       -inf       -inf       -inf       -inf 0.1521061        -inf
+       -inf       -inf 0.14618951       -inf 0.16206656       -inf
+ 0.15728234       -inf 0.13399707 0.14703472       -inf       -inf
+ 0.13478145       -inf]",0.19354898,245629.16,"[ 0  1  0  0  1  0  3  0  0  4  0  8  0  0 11  0  0  6  0  0  0  0  2  0
+  0  0  0  3  0  0  0  0  2  0  0  3  0  2  0  2  0  0  0  0  0  1  3  0
+ 45  4  0  0  1  0  0  0  0  0  0  2  0  0  0  0  0  0  0  0  0  0  0  0
+  1  0  1  5  0  0  0  0  5  1  0  0  0  0  0  1  4  6  9  0  1  0  0  0
+  0  3  0  0  7  0  2  4  0  0  0  1  0  0  0  0  2  0  0  0  8  0  2  0
+  1  0  4  6  0  0  2  0]",241,180
+32.03125,329,98,[ 3.2288132e+02 -1.0889883e-03],6400,7968.7676,"[     -inf 6122.101       -inf      -inf 5688.8926      -inf 5374.5894
+      -inf      -inf 5487.395       -inf 5680.8047      -inf      -inf
+ 5608.5327      -inf      -inf 6132.8076      -inf      -inf      -inf
+      -inf 5595.728       -inf      -inf      -inf      -inf 7068.1973
+      -inf      -inf      -inf      -inf 5425.8784      -inf      -inf
+ 7725.9453      -inf 5514.3223      -inf 5561.6577      -inf      -inf
+      -inf      -inf      -inf 7284.144  5721.7183      -inf 6018.6455
+ 6024.9766      -inf      -inf 5182.3477      -inf      -inf      -inf
+      -inf      -inf      -inf 6246.15        -inf      -inf      -inf
+      -inf      -inf      -inf      -inf      -inf      -inf      -inf
+      -inf      -inf 5236.8945      -inf 6286.569  5748.7554      -inf
+      -inf      -inf      -inf 5743.581  7162.816       -inf      -inf
+      -inf      -inf      -inf 5120.999  5675.589  5469.6694 5538.872
+      -inf 7831.2056      -inf      -inf      -inf      -inf 5911.348
+      -inf      -inf 5791.372       -inf 6426.4854 7867.7656      -inf
+      -inf      -inf 4528.24        -inf      -inf      -inf      -inf
+ 6183.1133      -inf      -inf      -inf 5942.6035      -inf 6712.256
+      -inf 6393.5264      -inf 5454.0366 5976.9604      -inf      -inf
+ 5478.8657      -inf]",7867.7656,[ 3.2288132e+02 -1.0889883e-03],322.57727,[-108.11492     -0.9147334],245946.36,0.19603366,"[      -inf 0.1506052        -inf       -inf 0.13994816       -inf
+ 0.13221622       -inf       -inf 0.13499127       -inf 0.1397492
+       -inf       -inf 0.13797128       -inf       -inf 0.15086858
+       -inf       -inf       -inf       -inf 0.13765629       -inf
+       -inf       -inf       -inf 0.1738794        -inf       -inf
+       -inf       -inf 0.13347794       -inf       -inf 0.19006015
+       -inf 0.13565367       -inf 0.13681816       -inf       -inf
+       -inf       -inf       -inf 0.17919174 0.14075567       -inf
+ 0.14806016 0.14821592       -inf       -inf 0.12748705       -inf
+       -inf       -inf       -inf       -inf       -inf 0.15365684
+       -inf       -inf       -inf       -inf       -inf       -inf
+       -inf       -inf       -inf       -inf       -inf       -inf
+ 0.1288289        -inf 0.15465115 0.14142078       -inf       -inf
+       -inf       -inf 0.14129351 0.17620705       -inf       -inf
+       -inf       -inf       -inf 0.12597783 0.13962089 0.13455524
+ 0.13625762       -inf 0.19264959       -inf       -inf       -inf
+       -inf 0.14542061       -inf       -inf 0.14246918       -inf
+ 0.15809314 0.19354898       -inf       -inf       -inf 0.11139584
+       -inf       -inf       -inf       -inf 0.1521061        -inf
+       -inf       -inf 0.14618951       -inf 0.16512315       -inf
+ 0.15728234       -inf 0.13417065 0.14703472       -inf       -inf
+ 0.13478145       -inf]",0.19354898,245946.36,"[ 0  1  0  0  1  0  2  0  0  4  0  9  0  0 12  0  0  6  0  0  0  0  2  0
+  0  0  0  3  0  0  0  0  2  0  0  3  0  2  0  2  0  0  0  0  0  1  3  0
+ 42  4  0  0  2  0  0  0  0  0  0  2  0  0  0  0  0  0  0  0  0  0  0  0
+  1  0  2  5  0  0  0  0  5  1  0  0  0  0  0  1  5  6  9  0  1  0  0  0
+  0  3  0  0  7  0  2  4  0  0  0  1  0  0  0  0  2  0  0  0  8  0  2  0
+  1  0  6  6  0  0  2  0]",243,183
+31.25,330,98,[ 3.2288132e+02 -9.2223217e-04],6400,7968.797,"[     -inf 6122.101       -inf      -inf 5688.8926      -inf 5385.7227
+      -inf      -inf 5429.1323      -inf 5680.8047      -inf      -inf
+ 5608.5327      -inf      -inf 6132.8076      -inf      -inf      -inf
+      -inf 5595.728       -inf      -inf      -inf      -inf 7071.1606
+      -inf      -inf      -inf      -inf 5425.8784      -inf      -inf
+ 7725.9453      -inf 5514.3223      -inf 5561.6577      -inf      -inf
+      -inf      -inf      -inf 7284.144  5721.7183      -inf 6018.6616
+ 6024.9766      -inf      -inf 6032.536       -inf      -inf      -inf
+      -inf      -inf      -inf 6246.15        -inf      -inf      -inf
+      -inf      -inf      -inf      -inf      -inf      -inf      -inf
+      -inf      -inf 5236.8945      -inf 6286.569  5735.5747      -inf
+      -inf      -inf      -inf 5743.581  7162.816       -inf      -inf
+      -inf      -inf      -inf 5120.999  5675.589  5469.6694 5538.872
+      -inf 7831.2056      -inf      -inf      -inf      -inf 5911.348
+      -inf      -inf 5791.372       -inf 6426.4854 7867.7656      -inf
+      -inf      -inf      -inf      -inf      -inf      -inf      -inf
+ 6183.1133      -inf      -inf      -inf 5942.6035      -inf 6712.256
+      -inf 6393.5264      -inf 5454.0366 5977.9688      -inf      -inf
+ 5478.8657      -inf]",7867.7656,[ 3.2288132e+02 -9.2223217e-04],322.57727,[-112.85366     -0.9147334],242211.98,0.19603436,"[      -inf 0.1506052        -inf       -inf 0.13994816       -inf
+ 0.1324901        -inf       -inf 0.133558         -inf 0.1397492
+       -inf       -inf 0.13797128       -inf       -inf 0.15086858
+       -inf       -inf       -inf       -inf 0.13765629       -inf
+       -inf       -inf       -inf 0.1739523        -inf       -inf
+       -inf       -inf 0.13347794       -inf       -inf 0.19006015
+       -inf 0.13565367       -inf 0.13681816       -inf       -inf
+       -inf       -inf       -inf 0.17919174 0.14075567       -inf
+ 0.14806056 0.14821592       -inf       -inf 0.14840187       -inf
+       -inf       -inf       -inf       -inf       -inf 0.15365684
+       -inf       -inf       -inf       -inf       -inf       -inf
+       -inf       -inf       -inf       -inf       -inf       -inf
+ 0.1288289        -inf 0.15465115 0.14109653       -inf       -inf
+       -inf       -inf 0.14129351 0.17620705       -inf       -inf
+       -inf       -inf       -inf 0.12597783 0.13962089 0.13455524
+ 0.13625762       -inf 0.19264959       -inf       -inf       -inf
+       -inf 0.14542061       -inf       -inf 0.14246918       -inf
+ 0.15809314 0.19354898       -inf       -inf       -inf       -inf
+       -inf       -inf       -inf       -inf 0.1521061        -inf
+       -inf       -inf 0.14618951       -inf 0.16512315       -inf
+ 0.15728234       -inf 0.13417065 0.1470595        -inf       -inf
+ 0.13478145       -inf]",0.19354898,242211.98,"[ 0  1  0  0  1  0  3  0  0  1  0  9  0  0 12  0  0  6  0  0  0  0  2  0
+  0  0  0  2  0  0  0  0  2  0  0  3  0  2  0  2  0  0  0  0  0  1  3  0
+ 44  4  0  0  2  0  0  0  0  0  0  2  0  0  0  0  0  0  0  0  0  0  0  0
+  1  0  2  4  0  0  0  0  5  1  0  0  0  0  0  1  5  6  9  0  1  0  0  0
+  0  3  0  0  7  0  2  4  0  0  0  0  0  0  0  0  2  0  0  0  8  0  2  0
+  1  0  6  7  0  0  2  0]",246,181
+31.25,328,98,[ 3.2288132e+02 -9.2223217e-04],6400,7968.7964,"[     -inf 6122.101       -inf      -inf 5688.8926      -inf 5374.5894
+      -inf      -inf 5429.1323      -inf 5680.8047      -inf      -inf
+ 5608.616       -inf      -inf 6132.8076      -inf      -inf      -inf
+      -inf 5595.808       -inf      -inf      -inf      -inf 7071.1606
+      -inf      -inf      -inf      -inf 5425.8784      -inf      -inf
+ 7725.9453      -inf 5514.3223      -inf 5561.6577      -inf      -inf
+      -inf      -inf      -inf 7284.144  5721.7183      -inf 6018.6616
+ 6024.9766      -inf      -inf 6032.536       -inf      -inf      -inf
+      -inf      -inf      -inf 6246.15        -inf      -inf      -inf
+      -inf      -inf      -inf      -inf      -inf      -inf      -inf
+      -inf      -inf 5236.8945      -inf 6286.569  6241.08        -inf
+      -inf      -inf      -inf 5743.581  7162.816       -inf      -inf
+      -inf      -inf      -inf 5120.999  5673.5303 5469.6694 5538.872
+      -inf 7831.2056      -inf      -inf      -inf      -inf 5911.348
+      -inf      -inf 5791.556       -inf 6426.4854 7867.7656      -inf
+      -inf      -inf      -inf      -inf      -inf      -inf      -inf
+ 6183.1133      -inf      -inf      -inf 5942.6035      -inf 6712.256
+      -inf 6393.5264      -inf 5446.9805 5977.9688      -inf      -inf
+ 5478.8657      -inf]",7867.7656,[ 3.2288132e+02 -9.2223217e-04],322.57727,[-112.85366     -0.9147334],242697.6,0.19603437,"[      -inf 0.1506052        -inf       -inf 0.13994816       -inf
+ 0.13221622       -inf       -inf 0.133558         -inf 0.1397492
+       -inf       -inf 0.13797334       -inf       -inf 0.15086858
+       -inf       -inf       -inf       -inf 0.13765827       -inf
+       -inf       -inf       -inf 0.1739523        -inf       -inf
+       -inf       -inf 0.13347794       -inf       -inf 0.19006015
+       -inf 0.13565367       -inf 0.13681816       -inf       -inf
+       -inf       -inf       -inf 0.17919174 0.14075567       -inf
+ 0.14806056 0.14821592       -inf       -inf 0.14840187       -inf
+       -inf       -inf       -inf       -inf       -inf 0.15365684
+       -inf       -inf       -inf       -inf       -inf       -inf
+       -inf       -inf       -inf       -inf       -inf       -inf
+ 0.1288289        -inf 0.15465115 0.1535321        -inf       -inf
+       -inf       -inf 0.14129351 0.17620705       -inf       -inf
+       -inf       -inf       -inf 0.12597783 0.13957025 0.13455524
+ 0.13625762       -inf 0.19264959       -inf       -inf       -inf
+       -inf 0.14542061       -inf       -inf 0.14247371       -inf
+ 0.15809314 0.19354898       -inf       -inf       -inf       -inf
+       -inf       -inf       -inf       -inf 0.1521061        -inf
+       -inf       -inf 0.14618951       -inf 0.16512315       -inf
+ 0.15728234       -inf 0.13399707 0.1470595        -inf       -inf
+ 0.13478145       -inf]",0.19354898,242697.6,"[ 0  1  0  0  1  0  2  0  0  1  0  9  0  0 13  0  0  6  0  0  0  0  3  0
+  0  0  0  2  0  0  0  0  2  0  0  3  0  2  0  2  0  0  0  0  0  1  3  0
+ 45  4  0  0  2  0  0  0  0  0  0  2  0  0  0  0  0  0  0  0  0  0  0  0
+  1  0  2  1  0  0  0  0  5  1  0  0  0  0  0  1  4  6  9  0  1  0  0  0
+  0  3  0  0  7  0  2  4  0  0  0  0  0  0  0  0  2  0  0  0  8  0  2  0
+  1  0  4  7  0  0  2  0]",248,177
+30.46875,327,99,[ 3.2288132e+02 -9.2223217e-04],6400,7969.0293,"[     -inf 6122.101       -inf      -inf 5688.8926      -inf 5374.5894
+      -inf      -inf 5429.1323      -inf 5680.8184      -inf      -inf
+ 5608.616       -inf      -inf 6132.8076      -inf      -inf      -inf
+      -inf 5595.808       -inf      -inf      -inf      -inf 7071.1606
+      -inf      -inf      -inf      -inf 5425.8784      -inf      -inf
+ 7725.9453      -inf 5514.3223      -inf 5561.6577      -inf      -inf
+      -inf      -inf      -inf 7284.144  5721.7183      -inf 6018.6616
+ 6024.9766      -inf      -inf 6032.536       -inf      -inf      -inf
+      -inf      -inf      -inf 6246.15        -inf      -inf      -inf
+      -inf      -inf      -inf      -inf      -inf      -inf      -inf
+      -inf      -inf 5236.8945      -inf 6286.569  6352.8096      -inf
+      -inf      -inf      -inf 5743.581  7162.816       -inf      -inf
+      -inf      -inf      -inf      -inf 5673.5303 5469.6694 5538.872
+      -inf 7831.2056      -inf      -inf      -inf      -inf 5911.348
+      -inf      -inf 5791.556       -inf 6426.4854 7867.7656      -inf
+      -inf      -inf      -inf      -inf      -inf      -inf      -inf
+ 6183.1133      -inf      -inf      -inf 5942.6035      -inf 6712.256
+      -inf 6393.5264      -inf 5446.9805 5977.9688      -inf      -inf
+ 5478.8657      -inf]",7867.7656,[ 3.2288132e+02 -9.2223217e-04],322.57727,[-112.85366     -0.9147334],237688.33,0.1960401,"[      -inf 0.1506052        -inf       -inf 0.13994816       -inf
+ 0.13221622       -inf       -inf 0.133558         -inf 0.13974953
+       -inf       -inf 0.13797334       -inf       -inf 0.15086858
+       -inf       -inf       -inf       -inf 0.13765827       -inf
+       -inf       -inf       -inf 0.1739523        -inf       -inf
+       -inf       -inf 0.13347794       -inf       -inf 0.19006015
+       -inf 0.13565367       -inf 0.13681816       -inf       -inf
+       -inf       -inf       -inf 0.17919174 0.14075567       -inf
+ 0.14806056 0.14821592       -inf       -inf 0.14840187       -inf
+       -inf       -inf       -inf       -inf       -inf 0.15365684
+       -inf       -inf       -inf       -inf       -inf       -inf
+       -inf       -inf       -inf       -inf       -inf       -inf
+ 0.1288289        -inf 0.15465115 0.15628068       -inf       -inf
+       -inf       -inf 0.14129351 0.17620705       -inf       -inf
+       -inf       -inf       -inf       -inf 0.13957025 0.13455524
+ 0.13625762       -inf 0.19264959       -inf       -inf       -inf
+       -inf 0.14542061       -inf       -inf 0.14247371       -inf
+ 0.15809314 0.19354898       -inf       -inf       -inf       -inf
+       -inf       -inf       -inf       -inf 0.1521061        -inf
+       -inf       -inf 0.14618951       -inf 0.16512315       -inf
+ 0.15728234       -inf 0.13399707 0.1470595        -inf       -inf
+ 0.13478145       -inf]",0.19354898,237688.33,"[ 0  1  0  0  1  0  2  0  0  1  0 10  0  0 13  0  0  6  0  0  0  0  3  0
+  0  0  0  2  0  0  0  0  2  0  0  3  0  2  0  2  0  0  0  0  0  1  3  0
+ 46  4  0  0  2  0  0  0  0  0  0  2  0  0  0  0  0  0  0  0  0  0  0  0
+  1  0  2  1  0  0  0  0  5  1  0  0  0  0  0  0  4  6  9  0  1  0  0  0
+  0  3  0  0  7  0  2  4  0  0  0  0  0  0  0  0  2  0  0  0  8  0  2  0
+  1  0  4  7  0  0  2  0]",247,178
+31.25,337,97,[ 3.2288132e+02 -9.2223217e-04],6400,7969.032,"[     -inf 6122.101       -inf      -inf 5688.8926      -inf 5386.999
+      -inf      -inf 5429.1323      -inf 5680.8184      -inf      -inf
+ 5608.972       -inf      -inf 6132.8076      -inf      -inf      -inf
+      -inf 5616.6997      -inf      -inf      -inf      -inf 7071.1606
+      -inf      -inf      -inf      -inf 5425.8784      -inf      -inf
+ 7725.9453      -inf 5514.3223      -inf 5561.6577      -inf      -inf
+      -inf      -inf      -inf 7284.144  5996.8345      -inf 6018.6646
+ 6024.9766      -inf      -inf 6032.6396      -inf      -inf      -inf
+      -inf      -inf      -inf 6246.15        -inf      -inf      -inf
+      -inf      -inf      -inf      -inf      -inf      -inf      -inf
+      -inf      -inf 5236.8945      -inf 6286.569  6352.8096      -inf
+      -inf      -inf      -inf 5743.581  7162.816       -inf      -inf
+      -inf      -inf      -inf      -inf 5673.5303 5469.6694 5539.008
+      -inf 7831.2056      -inf      -inf      -inf      -inf 5909.656
+      -inf      -inf 5791.556       -inf 6426.4854 7867.7656      -inf
+      -inf      -inf      -inf      -inf      -inf      -inf      -inf
+ 6183.1133      -inf      -inf      -inf 5942.8833      -inf 6719.2827
+      -inf 6393.5264      -inf 5446.9805 5977.9688 4913.7217      -inf
+ 5478.8657      -inf]",7867.7656,[ 3.2288132e+02 -9.2223217e-04],322.57727,[-119.93996     -0.9147334],242916.69,0.19604015,"[      -inf 0.1506052        -inf       -inf 0.13994816       -inf
+ 0.1325215        -inf       -inf 0.133558         -inf 0.13974953
+       -inf       -inf 0.13798209       -inf       -inf 0.15086858
+       -inf       -inf       -inf       -inf 0.13817221       -inf
+       -inf       -inf       -inf 0.1739523        -inf       -inf
+       -inf       -inf 0.13347794       -inf       -inf 0.19006015
+       -inf 0.13565367       -inf 0.13681816       -inf       -inf
+       -inf       -inf       -inf 0.17919174 0.14752361       -inf
+ 0.14806062 0.14821592       -inf       -inf 0.14840443       -inf
+       -inf       -inf       -inf       -inf       -inf 0.15365684
+       -inf       -inf       -inf       -inf       -inf       -inf
+       -inf       -inf       -inf       -inf       -inf       -inf
+ 0.1288289        -inf 0.15465115 0.15628068       -inf       -inf
+       -inf       -inf 0.14129351 0.17620705       -inf       -inf
+       -inf       -inf       -inf       -inf 0.13957025 0.13455524
+ 0.13626096       -inf 0.19264959       -inf       -inf       -inf
+       -inf 0.145379         -inf       -inf 0.14247371       -inf
+ 0.15809314 0.19354898       -inf       -inf       -inf       -inf
+       -inf       -inf       -inf       -inf 0.1521061        -inf
+       -inf       -inf 0.1461964        -inf 0.16529602       -inf
+ 0.15728234       -inf 0.13399707 0.1470595  0.12087876       -inf
+ 0.13478145       -inf]",0.19354898,242916.69,"[ 0  1  0  0  1  0  3  0  0  1  0 10  0  0 15  0  0  6  0  0  0  0  4  0
+  0  0  0  2  0  0  0  0  2  0  0  3  0  2  0  2  0  0  0  0  0  1  1  0
+ 45  4  0  0  3  0  0  0  0  0  0  2  0  0  0  0  0  0  0  0  0  0  0  0
+  1  0  2  1  0  0  0  0  5  1  0  0  0  0  0  0  4  6  9  0  1  0  0  0
+  0  2  0  0  7  0  2  4  0  0  0  0  0  0  0  0  2  0  0  0  9  0  3  0
+  1  0  4  7  1  0  2  0]",251,182
+31.25,332,98,[ 3.2288132e+02 -9.2223217e-04],6400,7969.0547,"[     -inf 6122.101       -inf      -inf 5688.8926      -inf 5374.5894
+      -inf      -inf 5429.1323      -inf 5680.8184      -inf      -inf
+ 5608.972       -inf      -inf 6132.8076      -inf      -inf      -inf
+      -inf 5616.6997      -inf      -inf      -inf      -inf 7071.1606
+      -inf      -inf      -inf      -inf 5425.8784      -inf      -inf
+ 7725.9453      -inf 5514.3223      -inf 5561.6577      -inf      -inf
+      -inf      -inf      -inf 7284.144  5996.8345      -inf 6018.665
+ 6024.9766      -inf      -inf 6032.536       -inf      -inf      -inf
+      -inf      -inf      -inf 6246.15        -inf      -inf      -inf
+      -inf      -inf      -inf      -inf      -inf      -inf      -inf
+      -inf      -inf 5236.8945      -inf 6286.569  6352.8096      -inf
+      -inf      -inf      -inf 5743.581  7162.816       -inf      -inf
+      -inf      -inf      -inf 5183.834  5673.5303 5469.6694 5538.7334
+      -inf 7831.2056      -inf      -inf      -inf      -inf 5797.247
+      -inf      -inf 5791.556       -inf 6426.4854 7867.7656      -inf
+      -inf      -inf      -inf      -inf      -inf      -inf      -inf
+ 6183.1133      -inf      -inf      -inf 5942.6416      -inf 6719.2827
+      -inf 6393.5264      -inf 5446.9805 5977.9688      -inf      -inf
+ 5478.8657      -inf]",7867.7656,[ 3.2288132e+02 -9.2223217e-04],322.57727,[-112.85366     -0.9147334],243061.34,0.19604069,"[      -inf 0.1506052        -inf       -inf 0.13994816       -inf
+ 0.13221622       -inf       -inf 0.133558         -inf 0.13974953
+       -inf       -inf 0.13798209       -inf       -inf 0.15086858
+       -inf       -inf       -inf       -inf 0.13817221       -inf
+       -inf       -inf       -inf 0.1739523        -inf       -inf
+       -inf       -inf 0.13347794       -inf       -inf 0.19006015
+       -inf 0.13565367       -inf 0.13681816       -inf       -inf
+       -inf       -inf       -inf 0.17919174 0.14752361       -inf
+ 0.14806063 0.14821592       -inf       -inf 0.14840187       -inf
+       -inf       -inf       -inf       -inf       -inf 0.15365684
+       -inf       -inf       -inf       -inf       -inf       -inf
+       -inf       -inf       -inf       -inf       -inf       -inf
+ 0.1288289        -inf 0.15465115 0.15628068       -inf       -inf
+       -inf       -inf 0.14129351 0.17620705       -inf       -inf
+       -inf       -inf       -inf 0.12752359 0.13957025 0.13455524
+ 0.1362542        -inf 0.19264959       -inf       -inf       -inf
+       -inf 0.14261371       -inf       -inf 0.14247371       -inf
+ 0.15809314 0.19354898       -inf       -inf       -inf       -inf
+       -inf       -inf       -inf       -inf 0.1521061        -inf
+       -inf       -inf 0.14619046       -inf 0.16529602       -inf
+ 0.15728234       -inf 0.13399707 0.1470595        -inf       -inf
+ 0.13478145       -inf]",0.19354898,243061.34,"[ 0  1  0  0  1  0  2  0  0  1  0 10  0  0 15  0  0  6  0  0  0  0  4  0
+  0  0  0  2  0  0  0  0  2  0  0  3  0  2  0  2  0  0  0  0  0  1  1  0
+ 46  4  0  0  2  0  0  0  0  0  0  2  0  0  0  0  0  0  0  0  0  0  0  0
+  1  0  2  1  0  0  0  0  5  1  0  0  0  0  0  1  4  6  8  0  1  0  0  0
+  0  1  0  0  7  0  2  4  0  0  0  0  0  0  0  0  2  0  0  0  8  0  3  0
+  1  0  4  7  0  0  2  0]",252,178
+32.03125,341,99,[ 3.3968903e+02 -9.2223217e-04],6400,8215.982,"[     -inf 6122.101       -inf      -inf 5688.8926      -inf 5374.5894
+      -inf      -inf 5429.1323      -inf 5680.8184      -inf      -inf
+ 5608.9336      -inf      -inf 6132.8076      -inf      -inf      -inf
+      -inf 5616.6997      -inf      -inf      -inf      -inf 7267.8306
+      -inf      -inf      -inf      -inf 5425.8784      -inf      -inf
+ 7725.9453      -inf 5514.3223      -inf 5615.3         -inf      -inf
+      -inf      -inf      -inf 7284.144  6254.967       -inf 6018.6914
+ 6024.9766      -inf      -inf 6032.536       -inf      -inf      -inf
+      -inf      -inf 4552.703  6246.15        -inf      -inf      -inf
+      -inf      -inf      -inf      -inf      -inf      -inf      -inf
+      -inf      -inf 5236.8945      -inf 6286.569  6352.8096      -inf
+      -inf      -inf      -inf 5743.581  7162.816       -inf      -inf
+      -inf      -inf      -inf 5190.965  5673.5303 5460.9727 5538.745
+      -inf 8077.7734      -inf      -inf      -inf      -inf 5797.247
+      -inf      -inf 5791.556       -inf 6426.4854 7867.7656      -inf
+      -inf      -inf      -inf      -inf      -inf      -inf      -inf
+ 6183.1133      -inf      -inf      -inf 5942.5635      -inf 6719.2827
+      -inf 6393.5264      -inf 5542.9585 5977.9697      -inf      -inf
+ 5478.8657      -inf]",8077.7734,[ 3.3968903e+02 -9.2223217e-04],339.35898,[-112.85366     -0.9147334],248463.4,0.20211516,"[      -inf 0.1506052        -inf       -inf 0.13994816       -inf
+ 0.13221622       -inf       -inf 0.133558         -inf 0.13974953
+       -inf       -inf 0.13798116       -inf       -inf 0.15086858
+       -inf       -inf       -inf       -inf 0.13817221       -inf
+       -inf       -inf       -inf 0.17879042       -inf       -inf
+       -inf       -inf 0.13347794       -inf       -inf 0.19006015
+       -inf 0.13565367       -inf 0.13813777       -inf       -inf
+       -inf       -inf       -inf 0.17919174 0.15387374       -inf
+ 0.14806128 0.14821592       -inf       -inf 0.14840187       -inf
+       -inf       -inf       -inf       -inf 0.11199761 0.15365684
+       -inf       -inf       -inf       -inf       -inf       -inf
+       -inf       -inf       -inf       -inf       -inf       -inf
+ 0.1288289        -inf 0.15465115 0.15628068       -inf       -inf
+       -inf       -inf 0.14129351 0.17620705       -inf       -inf
+       -inf       -inf       -inf 0.12769902 0.13957025 0.1343413
+ 0.1362545        -inf 0.19871521       -inf       -inf       -inf
+       -inf 0.14261371       -inf       -inf 0.14247371       -inf
+ 0.15809314 0.19354898       -inf       -inf       -inf       -inf
+       -inf       -inf       -inf       -inf 0.1521061        -inf
+       -inf       -inf 0.14618853       -inf 0.16529602       -inf
+ 0.15728234       -inf 0.13635814 0.14705952       -inf       -inf
+ 0.13478145       -inf]",0.19871521,248463.4,"[ 0  1  0  0  1  0  2  0  0  1  0 10  0  0 14  0  0  6  0  0  0  0  4  0
+  0  0  0  2  0  0  0  0  2  0  0  3  0  2  0  3  0  0  0  0  0  1  2  0
+ 45  4  0  0  2  0  0  0  0  0  1  2  0  0  0  0  0  0  0  0  0  0  0  0
+  1  0  2  1  0  0  0  0  5  1  0  0  0  0  0  3  4  5  9  0  2  0  0  0
+  0  1  0  0  7  0  2  4  0  0  0  0  0  0  0  0  2  0  0  0  8  0  3  0
+  1  0  5  8  0  0  2  0]",255,184
